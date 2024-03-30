@@ -26,7 +26,6 @@
 
 
 <hr>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ryneit&show_icons=true&theme=gruvbox&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Sei curioso?" /></p>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryneit&theme=gruvbox" alt="Sei molto curioso?" /></p>
   <p align="center"><img src="https://discord.c99.nl/widget/theme-2/1088118628416749568.png"/> </p>
 <hr>
