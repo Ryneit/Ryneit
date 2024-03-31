@@ -18,10 +18,10 @@
 </hr>
 
 <hr>
-  <h2> Dove Lavoro... </h2>
+  <h2> Dove Lavoro </h2>
 </hr>
 
-[**SunsetPvP**](https://github.com/SunsetPvP) - **Team JrDev**
+[**SunsetPvP**](https://github.com/SunsetPvP) - **JrDev**
 <br>
 
 
