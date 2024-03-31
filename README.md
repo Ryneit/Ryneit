@@ -7,7 +7,7 @@
     <a>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Html5-FF3300?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/Css-CC33FF?style=for-the-badge&logo=css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Css-CC33FF?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=white" />
       <img src="https://img.shields.io/badge/Discord.js-3333cc?style=for-the-badge&logo=discord&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-161616?style=for-the-badge&logo=mysql&logoColor=white" />
