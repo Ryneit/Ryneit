@@ -21,7 +21,7 @@
   <h2> Dove Lavoro? </h2>
 </hr>
 
-[**SunsetPvP Network**] - **Administrator**
+**SunsetPvP Network** - **Administrator**
 <br>
 [**SunsetPvP**](https://github.com/SunsetPvP) - **Team Headstaff (Manager)**
 <br>
