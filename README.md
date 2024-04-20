@@ -22,7 +22,9 @@
 </hr>
 
 [**SunsetPvP Network**] - **Administrator**
+<br>
 [**SunsetPvP**](https://github.com/SunsetPvP) - **Team Headstaff (Manager)**
+<br>
 [**ZyklonMC**](https://discord.zyklonmc.it) - **Membro del SunsetPvP Network**
 <br>
 
