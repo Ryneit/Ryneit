@@ -21,9 +21,9 @@
   <h2> Dove Lavoro? </h2>
 </hr>
 
-**SunsetPvP Network** - **Administrator**
+[**SunsetPvP Network**](https://github.com/SunsetPvPNetwork) - **Administrator**
 <br>
-[**SunsetPvP**](https://github.com/SunsetPvP) - **Team Headstaff (Manager)**
+[**SunsetPvP**](https://discord.sunsetpvp.it) - **Team Headstaff (Manager)**
 <br>
 [**ZyklonMC**](https://discord.zyklonmc.it) - **Membro del SunsetPvP Network**
 <br>
