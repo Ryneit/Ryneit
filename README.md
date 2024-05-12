@@ -22,9 +22,7 @@
 </hr>
 
 
-[**GalaxyCraft**](https://discord.galaxycraft.it) - **Team Headstaff (Manager)**
-<br>
-[**ZyklonMC**](https://discord.zyklonmc.it) - **Founder**
+[**AdventureMC**](https://discord.adventuremc.it) - **Owner**
 <br>
 
 
