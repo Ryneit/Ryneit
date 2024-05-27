@@ -22,7 +22,7 @@
 </hr>
 
 
-[**AdventureMC**](https://discord.adventuremc.it) - **Owner**
+[**PacificMC**](https://discord.pacificmc.it) - **Owner**
 <br>
 
 
